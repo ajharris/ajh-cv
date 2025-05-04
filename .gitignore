@@ -53,7 +53,7 @@ Desktop.ini
 *.swp
 *.swo
 
-issues.py
+# issues.py
 
 # Ignore requirements.txt if generated
 # requirements.txt
