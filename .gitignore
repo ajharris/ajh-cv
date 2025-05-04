@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.gz
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+issues.py
+
+# Ignore requirements.txt if generated
+# requirements.txt
